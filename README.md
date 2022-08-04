@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
 </div>
 
-## @Antinator11 - 1st Year Software Engineering Student @ Queensland University of Technology
+## @Antinator11 - 1st Year Information Technology Student @ Queensland University of Technology
 
 - 🌱 I’m currently learning ...
   - Frontend Frameworks (React, Angular)
