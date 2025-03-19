@@ -33,4 +33,4 @@ Vexal Engine -> A real time game engine
 A list of websites I designed and built
 
 - [Neutrify](https://www.neutrify.co) (Paid)
-- [Iona Passion Play](https://www.ionapassionplay.org)
+- [Iona Passion Play](https://www.ionapassionplay.org.au)
