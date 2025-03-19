@@ -10,6 +10,7 @@
   - Vulkan
   - Java
   - Astro
+  - Machine Learning 
 - ⚡ Fun fact: ...
   - I like pineapple pizza
 
@@ -19,6 +20,13 @@
 ### Hobby / Passion Projects
 
 Vexal Engine -> A real time game engine
+
+### Uni Projects
+
+  Some noteworthy projects I completed/helped complete as apart of my Uni coursework
+
+- CompileX -> A cloud based C compiler
+- Sokoban Solver -> Uses A* grid search to solve sokoban problem
 
 ### Websites
 
