@@ -24,5 +24,5 @@ Vexal Engine -> A real time game engine
 
 A list of websites I designed and built
 
-- [Neutrify](www.neutrify.co) (Paid)
-- [Iona Passion Play](www.ionapassionplay.org)
+- [Neutrify](https://www.neutrify.co) (Paid)
+- [Iona Passion Play](https://www.ionapassionplay.org)
