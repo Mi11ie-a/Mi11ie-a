@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
 </div>
 
-## [@Mi11ie-a](https://github.com/Mi11ie-a) - 3rd Year Information Technology Student @ Queensland University of Technology
+## [@Mi11ie-a](https://github.com/Mi11ie-a) - Queensland University of Technology Graduand (Bachelor of Information Technology (Maj: Computer Science))
 
 - 🌱 I’m currently learning ...
   - Vulkan
