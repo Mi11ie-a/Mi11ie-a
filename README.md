@@ -6,15 +6,6 @@
 
 ## [@Mi11ie-a](https://github.com/Mi11ie-a) - Queensland University of Technology Graduand (Bachelor of Information Technology (Maj: Computer Science))
 
-- 🌱 I’m currently learning ...
-  - Vulkan
-  - Java
-  - Astro
-  - Machine Learning 
-- ⚡ Fun fact: ...
-  - I like pineapple pizza
-
-
 ## Project Portfolio
 
 ### Hobby / Passion Projects
